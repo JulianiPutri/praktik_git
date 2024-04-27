@@ -1,1 +1,1 @@
-hello my name is juli
+hello my name is juli, i am a programmer
